@@ -1,0 +1,15 @@
+D:\Projects C#\OpenClosed_DemskyService\OpenClosed_DemskyService\bin\Debug\net6.0\OpenClosed_DemskyService.exe
+D:\Projects C#\OpenClosed_DemskyService\OpenClosed_DemskyService\bin\Debug\net6.0\OpenClosed_DemskyService.deps.json
+D:\Projects C#\OpenClosed_DemskyService\OpenClosed_DemskyService\bin\Debug\net6.0\OpenClosed_DemskyService.runtimeconfig.json
+D:\Projects C#\OpenClosed_DemskyService\OpenClosed_DemskyService\bin\Debug\net6.0\OpenClosed_DemskyService.dll
+D:\Projects C#\OpenClosed_DemskyService\OpenClosed_DemskyService\bin\Debug\net6.0\OpenClosed_DemskyService.pdb
+D:\Projects C#\OpenClosed_DemskyService\OpenClosed_DemskyService\obj\Debug\net6.0\OpenClosed_DemskyService.csproj.AssemblyReference.cache
+D:\Projects C#\OpenClosed_DemskyService\OpenClosed_DemskyService\obj\Debug\net6.0\OpenClosed_DemskyService.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects C#\OpenClosed_DemskyService\OpenClosed_DemskyService\obj\Debug\net6.0\OpenClosed_DemskyService.AssemblyInfoInputs.cache
+D:\Projects C#\OpenClosed_DemskyService\OpenClosed_DemskyService\obj\Debug\net6.0\OpenClosed_DemskyService.AssemblyInfo.cs
+D:\Projects C#\OpenClosed_DemskyService\OpenClosed_DemskyService\obj\Debug\net6.0\OpenClosed_DemskyService.csproj.CoreCompileInputs.cache
+D:\Projects C#\OpenClosed_DemskyService\OpenClosed_DemskyService\obj\Debug\net6.0\OpenClosed_DemskyService.dll
+D:\Projects C#\OpenClosed_DemskyService\OpenClosed_DemskyService\obj\Debug\net6.0\refint\OpenClosed_DemskyService.dll
+D:\Projects C#\OpenClosed_DemskyService\OpenClosed_DemskyService\obj\Debug\net6.0\OpenClosed_DemskyService.pdb
+D:\Projects C#\OpenClosed_DemskyService\OpenClosed_DemskyService\obj\Debug\net6.0\OpenClosed_DemskyService.genruntimeconfig.cache
+D:\Projects C#\OpenClosed_DemskyService\OpenClosed_DemskyService\obj\Debug\net6.0\ref\OpenClosed_DemskyService.dll

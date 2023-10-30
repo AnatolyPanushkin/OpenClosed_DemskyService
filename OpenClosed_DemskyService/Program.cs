@@ -7,7 +7,6 @@ using OpenClosed_DemskyService.Services;
 
 var list = ServiceListCreator._servicesList;
 
-
 ServiceCreator serviceCreator = new ServiceCreator();
 
 var service = serviceCreator.CreateService(ServiceListCreator._servicesList, new ServiceChoose("myAgent"));

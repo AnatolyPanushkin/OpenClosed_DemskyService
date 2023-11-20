@@ -10,3 +10,5 @@ using AbstractFactory.FactoryMethods;
 elf.Attack();
 elf.Move();
 
+Console.ReadLine();
+
